@@ -27,6 +27,6 @@ On landscape mode, there is an option to switch between the chart and the list.
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/123595552-ac7dcf00-d80e-11eb-9d8a-3f7895ad70c3.JPG" alt="Transaction List view" height="30%" width="30%">
-    <img src="https://user-images.githubusercontent.com/46050303/123595558-adaefc00-d80e-11eb-954e-9d2f7cc550ab.JPG" alt="Chart View" height="30%" width="30%">
+    <img src="https://user-images.githubusercontent.com/46050303/123595552-ac7dcf00-d80e-11eb-9d8a-3f7895ad70c3.JPG" alt="Transaction List view" height="40%" width="40%>
+    <img src="https://user-images.githubusercontent.com/46050303/123595558-adaefc00-d80e-11eb-954e-9d2f7cc550ab.JPG" alt="Chart View" height="40%" width="40%">
 </p>
